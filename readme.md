@@ -40,7 +40,7 @@ https://github.com/atabegruslan/Java_Spring/blob/master/theory.md
 
 The installation directory should be the unzipped folder from https://tomcat.apache.org/download-90.cgi
 
-(Relevant: Installing Apache Tomcat Server: https://www.eclipse.org/webtools/jst/components/ws/1.5/tutorials/InstallTomcat/InstallTomcat.html)
+(On a relevant note: Installing Apache Tomcat Server: https://www.eclipse.org/webtools/jst/components/ws/1.5/tutorials/InstallTomcat/InstallTomcat.html)
 
 ![](/Illustrations/tomcat.PNG)
 
