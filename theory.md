@@ -23,6 +23,8 @@ The resulting project structure should be like below:
 
 ![](/Illustrations/simple_proj_structure.PNG)
 
+An example of how an application context file should be like: https://alvinalexander.com/java/jwarehouse/spring-framework-2.5.3/test/org/springframework/jmx/applicationContext.xml.shtml . You can use this for reference/imitation.
+
 ## Most simple example
 
 Asking Spring to create object
